@@ -1,0 +1,802 @@
+[
+  {
+    "name": "Whole Milk 1 Gallon",
+    "category": "Groceries",
+    "price": 3.89,
+    "stock": 8,
+    "image": "https://placehold.co/600x400?text=Whole+Milk+1+Gallon",
+    "description": "Whole Milk 1 Gallon from our Groceries aisle. Everyday low price."
+  },
+  {
+    "name": "Large Eggs 18 Count",
+    "category": "Groceries",
+    "price": 4.99,
+    "stock": 3,
+    "image": "https://placehold.co/600x400?text=Large+Eggs+18+Count",
+    "description": "Large Eggs 18 Count from our Groceries aisle. Everyday low price."
+  },
+  {
+    "name": "Sliced Bread Loaf",
+    "category": "Groceries",
+    "price": 2.49,
+    "stock": 40,
+    "image": "https://placehold.co/600x400?text=Sliced+Bread+Loaf",
+    "description": "Sliced Bread Loaf from our Groceries aisle. Everyday low price."
+  },
+  {
+    "name": "Bananas 3 lb",
+    "category": "Groceries",
+    "price": 1.89,
+    "stock": 24,
+    "image": "https://placehold.co/600x400?text=Bananas+3+lb",
+    "description": "Bananas 3 lb from our Groceries aisle. Everyday low price."
+  },
+  {
+    "name": "Red Apples 3 lb Bag",
+    "category": "Groceries",
+    "price": 4.49,
+    "stock": 24,
+    "image": "https://placehold.co/600x400?text=Red+Apples+3+lb+Bag",
+    "description": "Red Apples 3 lb Bag from our Groceries aisle. Everyday low price."
+  },
+  {
+    "name": "Chicken Breast 3 lb",
+    "category": "Groceries",
+    "price": 9.97,
+    "stock": 15,
+    "image": "https://placehold.co/600x400?text=Chicken+Breast+3+lb",
+    "description": "Chicken Breast 3 lb from our Groceries aisle. Everyday low price."
+  },
+  {
+    "name": "Ground Beef 1 lb",
+    "category": "Groceries",
+    "price": 5.48,
+    "stock": 8,
+    "image": "https://placehold.co/600x400?text=Ground+Beef+1+lb",
+    "description": "Ground Beef 1 lb from our Groceries aisle. Everyday low price."
+  },
+  {
+    "name": "Long Grain Rice 5 lb",
+    "category": "Groceries",
+    "price": 4.29,
+    "stock": 200,
+    "image": "https://placehold.co/600x400?text=Long+Grain+Rice+5+lb",
+    "description": "Long Grain Rice 5 lb from our Groceries aisle. Everyday low price."
+  },
+  {
+    "name": "Spaghetti Pasta 16 oz",
+    "category": "Groceries",
+    "price": 1.39,
+    "stock": 8,
+    "image": "https://placehold.co/600x400?text=Spaghetti+Pasta+16+oz",
+    "description": "Spaghetti Pasta 16 oz from our Groceries aisle. Everyday low price."
+  },
+  {
+    "name": "Cheddar Cheese Block",
+    "category": "Groceries",
+    "price": 3.78,
+    "stock": 85,
+    "image": "https://placehold.co/600x400?text=Cheddar+Cheese+Block",
+    "description": "Cheddar Cheese Block from our Groceries aisle. Everyday low price."
+  },
+  {
+    "name": "Orange Juice 52 oz",
+    "category": "Groceries",
+    "price": 3.98,
+    "stock": 3,
+    "image": "https://placehold.co/600x400?text=Orange+Juice+52+oz",
+    "description": "Orange Juice 52 oz from our Groceries aisle. Everyday low price."
+  },
+  {
+    "name": "Frozen Pizza Pepperoni",
+    "category": "Groceries",
+    "price": 4.98,
+    "stock": 3,
+    "image": "https://placehold.co/600x400?text=Frozen+Pizza+Pepperoni",
+    "description": "Frozen Pizza Pepperoni from our Groceries aisle. Everyday low price."
+  },
+  {
+    "name": "Peanut Butter 16 oz",
+    "category": "Groceries",
+    "price": 2.58,
+    "stock": 8,
+    "image": "https://placehold.co/600x400?text=Peanut+Butter+16+oz",
+    "description": "Peanut Butter 16 oz from our Groceries aisle. Everyday low price."
+  },
+  {
+    "name": "Cereal Family Size",
+    "category": "Groceries",
+    "price": 4.48,
+    "stock": 24,
+    "image": "https://placehold.co/600x400?text=Cereal+Family+Size",
+    "description": "Cereal Family Size from our Groceries aisle. Everyday low price."
+  },
+  {
+    "name": "Bottled Water 24 Pack",
+    "category": "Groceries",
+    "price": 3.98,
+    "stock": 24,
+    "image": "https://placehold.co/600x400?text=Bottled+Water+24+Pack",
+    "description": "Bottled Water 24 Pack from our Groceries aisle. Everyday low price."
+  },
+  {
+    "name": "Ground Coffee 12 oz",
+    "category": "Groceries",
+    "price": 7.48,
+    "stock": 200,
+    "image": "https://placehold.co/600x400?text=Ground+Coffee+12+oz",
+    "description": "Ground Coffee 12 oz from our Groceries aisle. Everyday low price."
+  },
+  {
+    "name": "Potato Chips Party Size",
+    "category": "Groceries",
+    "price": 4.28,
+    "stock": 0,
+    "image": "https://placehold.co/600x400?text=Potato+Chips+Party+Size",
+    "description": "Potato Chips Party Size from our Groceries aisle. Everyday low price."
+  },
+  {
+    "name": "Greek Yogurt 32 oz",
+    "category": "Groceries",
+    "price": 4.68,
+    "stock": 3,
+    "image": "https://placehold.co/600x400?text=Greek+Yogurt+32+oz",
+    "description": "Greek Yogurt 32 oz from our Groceries aisle. Everyday low price."
+  },
+  {
+    "name": "Olive Oil 17 oz",
+    "category": "Groceries",
+    "price": 6.98,
+    "stock": 200,
+    "image": "https://placehold.co/600x400?text=Olive+Oil+17+oz",
+    "description": "Olive Oil 17 oz from our Groceries aisle. Everyday low price."
+  },
+  {
+    "name": "Tomato Sauce 24 oz",
+    "category": "Groceries",
+    "price": 1.98,
+    "stock": 24,
+    "image": "https://placehold.co/600x400?text=Tomato+Sauce+24+oz",
+    "description": "Tomato Sauce 24 oz from our Groceries aisle. Everyday low price."
+  },
+  {
+    "name": "55 Inch 4K Smart TV",
+    "category": "Electronics",
+    "price": 298.0,
+    "stock": 200,
+    "image": "https://placehold.co/600x400?text=55+Inch+4K+Smart+TV",
+    "description": "55 Inch 4K Smart TV from our Electronics aisle. Everyday low price."
+  },
+  {
+    "name": "Wireless Earbuds",
+    "category": "Electronics",
+    "price": 29.99,
+    "stock": 85,
+    "image": "https://placehold.co/600x400?text=Wireless+Earbuds",
+    "description": "Wireless Earbuds from our Electronics aisle. Everyday low price."
+  },
+  {
+    "name": "Bluetooth Speaker",
+    "category": "Electronics",
+    "price": 24.88,
+    "stock": 24,
+    "image": "https://placehold.co/600x400?text=Bluetooth+Speaker",
+    "description": "Bluetooth Speaker from our Electronics aisle. Everyday low price."
+  },
+  {
+    "name": "Laptop 15.6 Inch",
+    "category": "Electronics",
+    "price": 449.0,
+    "stock": 120,
+    "image": "https://placehold.co/600x400?text=Laptop+15.6+Inch",
+    "description": "Laptop 15.6 Inch from our Electronics aisle. Everyday low price."
+  },
+  {
+    "name": "Tablet 10 Inch",
+    "category": "Electronics",
+    "price": 129.0,
+    "stock": 40,
+    "image": "https://placehold.co/600x400?text=Tablet+10+Inch",
+    "description": "Tablet 10 Inch from our Electronics aisle. Everyday low price."
+  },
+  {
+    "name": "USB-C Charging Cable 6 ft",
+    "category": "Electronics",
+    "price": 9.97,
+    "stock": 3,
+    "image": "https://placehold.co/600x400?text=USB-C+Charging+Cable+6+ft",
+    "description": "USB-C Charging Cable 6 ft from our Electronics aisle. Everyday low price."
+  },
+  {
+    "name": "Wireless Mouse",
+    "category": "Electronics",
+    "price": 12.99,
+    "stock": 15,
+    "image": "https://placehold.co/600x400?text=Wireless+Mouse",
+    "description": "Wireless Mouse from our Electronics aisle. Everyday low price."
+  },
+  {
+    "name": "Mechanical Keyboard",
+    "category": "Electronics",
+    "price": 39.99,
+    "stock": 85,
+    "image": "https://placehold.co/600x400?text=Mechanical+Keyboard",
+    "description": "Mechanical Keyboard from our Electronics aisle. Everyday low price."
+  },
+  {
+    "name": "Portable Power Bank 10000mAh",
+    "category": "Electronics",
+    "price": 19.88,
+    "stock": 60,
+    "image": "https://placehold.co/600x400?text=Portable+Power+Bank+10000mAh",
+    "description": "Portable Power Bank 10000mAh from our Electronics aisle. Everyday low price."
+  },
+  {
+    "name": "Smart Watch",
+    "category": "Electronics",
+    "price": 59.0,
+    "stock": 40,
+    "image": "https://placehold.co/600x400?text=Smart+Watch",
+    "description": "Smart Watch from our Electronics aisle. Everyday low price."
+  },
+  {
+    "name": "HD Webcam",
+    "category": "Electronics",
+    "price": 27.49,
+    "stock": 15,
+    "image": "https://placehold.co/600x400?text=HD+Webcam",
+    "description": "HD Webcam from our Electronics aisle. Everyday low price."
+  },
+  {
+    "name": "Gaming Headset",
+    "category": "Electronics",
+    "price": 34.99,
+    "stock": 24,
+    "image": "https://placehold.co/600x400?text=Gaming+Headset",
+    "description": "Gaming Headset from our Electronics aisle. Everyday low price."
+  },
+  {
+    "name": "External Hard Drive 1TB",
+    "category": "Electronics",
+    "price": 54.99,
+    "stock": 60,
+    "image": "https://placehold.co/600x400?text=External+Hard+Drive+1TB",
+    "description": "External Hard Drive 1TB from our Electronics aisle. Everyday low price."
+  },
+  {
+    "name": "Wi-Fi Router",
+    "category": "Electronics",
+    "price": 44.88,
+    "stock": 0,
+    "image": "https://placehold.co/600x400?text=Wi-Fi+Router",
+    "description": "Wi-Fi Router from our Electronics aisle. Everyday low price."
+  },
+  {
+    "name": "Phone Case Universal",
+    "category": "Electronics",
+    "price": 8.97,
+    "stock": 8,
+    "image": "https://placehold.co/600x400?text=Phone+Case+Universal",
+    "description": "Phone Case Universal from our Electronics aisle. Everyday low price."
+  },
+  {
+    "name": "Non-Stick Frying Pan 12 Inch",
+    "category": "Home & Kitchen",
+    "price": 18.97,
+    "stock": 8,
+    "image": "https://placehold.co/600x400?text=Non-Stick+Frying+Pan+12+Inch",
+    "description": "Non-Stick Frying Pan 12 Inch from our Home & Kitchen aisle. Everyday low price."
+  },
+  {
+    "name": "Air Fryer 5 Quart",
+    "category": "Home & Kitchen",
+    "price": 59.0,
+    "stock": 85,
+    "image": "https://placehold.co/600x400?text=Air+Fryer+5+Quart",
+    "description": "Air Fryer 5 Quart from our Home & Kitchen aisle. Everyday low price."
+  },
+  {
+    "name": "Microwave Oven 1.1 cu ft",
+    "category": "Home & Kitchen",
+    "price": 79.0,
+    "stock": 8,
+    "image": "https://placehold.co/600x400?text=Microwave+Oven+1.1+cu+ft",
+    "description": "Microwave Oven 1.1 cu ft from our Home & Kitchen aisle. Everyday low price."
+  },
+  {
+    "name": "Coffee Maker 12 Cup",
+    "category": "Home & Kitchen",
+    "price": 32.88,
+    "stock": 60,
+    "image": "https://placehold.co/600x400?text=Coffee+Maker+12+Cup",
+    "description": "Coffee Maker 12 Cup from our Home & Kitchen aisle. Everyday low price."
+  },
+  {
+    "name": "Blender 700W",
+    "category": "Home & Kitchen",
+    "price": 24.97,
+    "stock": 60,
+    "image": "https://placehold.co/600x400?text=Blender+700W",
+    "description": "Blender 700W from our Home & Kitchen aisle. Everyday low price."
+  },
+  {
+    "name": "Bath Towel Set 6 Piece",
+    "category": "Home & Kitchen",
+    "price": 21.88,
+    "stock": 40,
+    "image": "https://placehold.co/600x400?text=Bath+Towel+Set+6+Piece",
+    "description": "Bath Towel Set 6 Piece from our Home & Kitchen aisle. Everyday low price."
+  },
+  {
+    "name": "Queen Bed Sheet Set",
+    "category": "Home & Kitchen",
+    "price": 26.97,
+    "stock": 3,
+    "image": "https://placehold.co/600x400?text=Queen+Bed+Sheet+Set",
+    "description": "Queen Bed Sheet Set from our Home & Kitchen aisle. Everyday low price."
+  },
+  {
+    "name": "Stainless Steel Cookware Set",
+    "category": "Home & Kitchen",
+    "price": 69.0,
+    "stock": 120,
+    "image": "https://placehold.co/600x400?text=Stainless+Steel+Cookware+Set",
+    "description": "Stainless Steel Cookware Set from our Home & Kitchen aisle. Everyday low price."
+  },
+  {
+    "name": "Food Storage Containers 20 Piece",
+    "category": "Home & Kitchen",
+    "price": 14.97,
+    "stock": 200,
+    "image": "https://placehold.co/600x400?text=Food+Storage+Containers+20+Piece",
+    "description": "Food Storage Containers 20 Piece from our Home & Kitchen aisle. Everyday low price."
+  },
+  {
+    "name": "Dinnerware Set 16 Piece",
+    "category": "Home & Kitchen",
+    "price": 29.88,
+    "stock": 8,
+    "image": "https://placehold.co/600x400?text=Dinnerware+Set+16+Piece",
+    "description": "Dinnerware Set 16 Piece from our Home & Kitchen aisle. Everyday low price."
+  },
+  {
+    "name": "Vacuum Cleaner Bagless",
+    "category": "Home & Kitchen",
+    "price": 89.0,
+    "stock": 85,
+    "image": "https://placehold.co/600x400?text=Vacuum+Cleaner+Bagless",
+    "description": "Vacuum Cleaner Bagless from our Home & Kitchen aisle. Everyday low price."
+  },
+  {
+    "name": "LED Desk Lamp",
+    "category": "Home & Kitchen",
+    "price": 15.97,
+    "stock": 8,
+    "image": "https://placehold.co/600x400?text=LED+Desk+Lamp",
+    "description": "LED Desk Lamp from our Home & Kitchen aisle. Everyday low price."
+  },
+  {
+    "name": "Memory Foam Pillow 2 Pack",
+    "category": "Home & Kitchen",
+    "price": 19.88,
+    "stock": 200,
+    "image": "https://placehold.co/600x400?text=Memory+Foam+Pillow+2+Pack",
+    "description": "Memory Foam Pillow 2 Pack from our Home & Kitchen aisle. Everyday low price."
+  },
+  {
+    "name": "Cutting Board Bamboo",
+    "category": "Home & Kitchen",
+    "price": 11.48,
+    "stock": 40,
+    "image": "https://placehold.co/600x400?text=Cutting+Board+Bamboo",
+    "description": "Cutting Board Bamboo from our Home & Kitchen aisle. Everyday low price."
+  },
+  {
+    "name": "Electric Kettle 1.7L",
+    "category": "Home & Kitchen",
+    "price": 19.97,
+    "stock": 60,
+    "image": "https://placehold.co/600x400?text=Electric+Kettle+1.7L",
+    "description": "Electric Kettle 1.7L from our Home & Kitchen aisle. Everyday low price."
+  },
+  {
+    "name": "Men's Crew T-Shirt 3 Pack",
+    "category": "Clothing",
+    "price": 14.98,
+    "stock": 0,
+    "image": "https://placehold.co/600x400?text=Men's+Crew+T-Shirt+3+Pack",
+    "description": "Men's Crew T-Shirt 3 Pack from our Clothing aisle. Everyday low price."
+  },
+  {
+    "name": "Women's Leggings",
+    "category": "Clothing",
+    "price": 12.0,
+    "stock": 24,
+    "image": "https://placehold.co/600x400?text=Women's+Leggings",
+    "description": "Women's Leggings from our Clothing aisle. Everyday low price."
+  },
+  {
+    "name": "Men's Jeans Relaxed Fit",
+    "category": "Clothing",
+    "price": 19.97,
+    "stock": 8,
+    "image": "https://placehold.co/600x400?text=Men's+Jeans+Relaxed+Fit",
+    "description": "Men's Jeans Relaxed Fit from our Clothing aisle. Everyday low price."
+  },
+  {
+    "name": "Hooded Sweatshirt",
+    "category": "Clothing",
+    "price": 16.88,
+    "stock": 3,
+    "image": "https://placehold.co/600x400?text=Hooded+Sweatshirt",
+    "description": "Hooded Sweatshirt from our Clothing aisle. Everyday low price."
+  },
+  {
+    "name": "Running Shoes",
+    "category": "Clothing",
+    "price": 24.88,
+    "stock": 24,
+    "image": "https://placehold.co/600x400?text=Running+Shoes",
+    "description": "Running Shoes from our Clothing aisle. Everyday low price."
+  },
+  {
+    "name": "Athletic Socks 10 Pack",
+    "category": "Clothing",
+    "price": 9.97,
+    "stock": 40,
+    "image": "https://placehold.co/600x400?text=Athletic+Socks+10+Pack",
+    "description": "Athletic Socks 10 Pack from our Clothing aisle. Everyday low price."
+  },
+  {
+    "name": "Winter Jacket",
+    "category": "Clothing",
+    "price": 39.99,
+    "stock": 8,
+    "image": "https://placehold.co/600x400?text=Winter+Jacket",
+    "description": "Winter Jacket from our Clothing aisle. Everyday low price."
+  },
+  {
+    "name": "Women's Sundress",
+    "category": "Clothing",
+    "price": 17.98,
+    "stock": 24,
+    "image": "https://placehold.co/600x400?text=Women's+Sundress",
+    "description": "Women's Sundress from our Clothing aisle. Everyday low price."
+  },
+  {
+    "name": "Kids Pajama Set",
+    "category": "Clothing",
+    "price": 11.97,
+    "stock": 8,
+    "image": "https://placehold.co/600x400?text=Kids+Pajama+Set",
+    "description": "Kids Pajama Set from our Clothing aisle. Everyday low price."
+  },
+  {
+    "name": "Baseball Cap",
+    "category": "Clothing",
+    "price": 8.88,
+    "stock": 85,
+    "image": "https://placehold.co/600x400?text=Baseball+Cap",
+    "description": "Baseball Cap from our Clothing aisle. Everyday low price."
+  },
+  {
+    "name": "Work Boots",
+    "category": "Clothing",
+    "price": 44.0,
+    "stock": 40,
+    "image": "https://placehold.co/600x400?text=Work+Boots",
+    "description": "Work Boots from our Clothing aisle. Everyday low price."
+  },
+  {
+    "name": "Rain Poncho",
+    "category": "Clothing",
+    "price": 7.97,
+    "stock": 120,
+    "image": "https://placehold.co/600x400?text=Rain+Poncho",
+    "description": "Rain Poncho from our Clothing aisle. Everyday low price."
+  },
+  {
+    "name": "Building Blocks 500 Piece",
+    "category": "Toys & Games",
+    "price": 19.97,
+    "stock": 60,
+    "image": "https://placehold.co/600x400?text=Building+Blocks+500+Piece",
+    "description": "Building Blocks 500 Piece from our Toys & Games aisle. Everyday low price."
+  },
+  {
+    "name": "Remote Control Car",
+    "category": "Toys & Games",
+    "price": 24.88,
+    "stock": 15,
+    "image": "https://placehold.co/600x400?text=Remote+Control+Car",
+    "description": "Remote Control Car from our Toys & Games aisle. Everyday low price."
+  },
+  {
+    "name": "Board Game Family Night",
+    "category": "Toys & Games",
+    "price": 16.97,
+    "stock": 60,
+    "image": "https://placehold.co/600x400?text=Board+Game+Family+Night",
+    "description": "Board Game Family Night from our Toys & Games aisle. Everyday low price."
+  },
+  {
+    "name": "Puzzle 1000 Piece",
+    "category": "Toys & Games",
+    "price": 9.97,
+    "stock": 60,
+    "image": "https://placehold.co/600x400?text=Puzzle+1000+Piece",
+    "description": "Puzzle 1000 Piece from our Toys & Games aisle. Everyday low price."
+  },
+  {
+    "name": "Action Figure Set",
+    "category": "Toys & Games",
+    "price": 14.88,
+    "stock": 24,
+    "image": "https://placehold.co/600x400?text=Action+Figure+Set",
+    "description": "Action Figure Set from our Toys & Games aisle. Everyday low price."
+  },
+  {
+    "name": "Plush Teddy Bear",
+    "category": "Toys & Games",
+    "price": 12.97,
+    "stock": 0,
+    "image": "https://placehold.co/600x400?text=Plush+Teddy+Bear",
+    "description": "Plush Teddy Bear from our Toys & Games aisle. Everyday low price."
+  },
+  {
+    "name": "Art Supplies Kit",
+    "category": "Toys & Games",
+    "price": 15.48,
+    "stock": 40,
+    "image": "https://placehold.co/600x400?text=Art+Supplies+Kit",
+    "description": "Art Supplies Kit from our Toys & Games aisle. Everyday low price."
+  },
+  {
+    "name": "Trading Card Starter Pack",
+    "category": "Toys & Games",
+    "price": 11.99,
+    "stock": 8,
+    "image": "https://placehold.co/600x400?text=Trading+Card+Starter+Pack",
+    "description": "Trading Card Starter Pack from our Toys & Games aisle. Everyday low price."
+  },
+  {
+    "name": "Water Blaster 2 Pack",
+    "category": "Toys & Games",
+    "price": 9.88,
+    "stock": 15,
+    "image": "https://placehold.co/600x400?text=Water+Blaster+2+Pack",
+    "description": "Water Blaster 2 Pack from our Toys & Games aisle. Everyday low price."
+  },
+  {
+    "name": "Kids Bicycle 16 Inch",
+    "category": "Toys & Games",
+    "price": 78.0,
+    "stock": 200,
+    "image": "https://placehold.co/600x400?text=Kids+Bicycle+16+Inch",
+    "description": "Kids Bicycle 16 Inch from our Toys & Games aisle. Everyday low price."
+  },
+  {
+    "name": "Shampoo 28 oz",
+    "category": "Health & Beauty",
+    "price": 5.48,
+    "stock": 24,
+    "image": "https://placehold.co/600x400?text=Shampoo+28+oz",
+    "description": "Shampoo 28 oz from our Health & Beauty aisle. Everyday low price."
+  },
+  {
+    "name": "Body Wash 23 oz",
+    "category": "Health & Beauty",
+    "price": 4.97,
+    "stock": 15,
+    "image": "https://placehold.co/600x400?text=Body+Wash+23+oz",
+    "description": "Body Wash 23 oz from our Health & Beauty aisle. Everyday low price."
+  },
+  {
+    "name": "Toothpaste 4 Pack",
+    "category": "Health & Beauty",
+    "price": 7.98,
+    "stock": 120,
+    "image": "https://placehold.co/600x400?text=Toothpaste+4+Pack",
+    "description": "Toothpaste 4 Pack from our Health & Beauty aisle. Everyday low price."
+  },
+  {
+    "name": "Sunscreen SPF 50",
+    "category": "Health & Beauty",
+    "price": 8.48,
+    "stock": 85,
+    "image": "https://placehold.co/600x400?text=Sunscreen+SPF+50",
+    "description": "Sunscreen SPF 50 from our Health & Beauty aisle. Everyday low price."
+  },
+  {
+    "name": "Electric Toothbrush",
+    "category": "Health & Beauty",
+    "price": 24.97,
+    "stock": 40,
+    "image": "https://placehold.co/600x400?text=Electric+Toothbrush",
+    "description": "Electric Toothbrush from our Health & Beauty aisle. Everyday low price."
+  },
+  {
+    "name": "Hand Soap Refill",
+    "category": "Health & Beauty",
+    "price": 3.98,
+    "stock": 200,
+    "image": "https://placehold.co/600x400?text=Hand+Soap+Refill",
+    "description": "Hand Soap Refill from our Health & Beauty aisle. Everyday low price."
+  },
+  {
+    "name": "Moisturizing Lotion 16 oz",
+    "category": "Health & Beauty",
+    "price": 6.47,
+    "stock": 24,
+    "image": "https://placehold.co/600x400?text=Moisturizing+Lotion+16+oz",
+    "description": "Moisturizing Lotion 16 oz from our Health & Beauty aisle. Everyday low price."
+  },
+  {
+    "name": "Multivitamin 200 Count",
+    "category": "Health & Beauty",
+    "price": 11.88,
+    "stock": 60,
+    "image": "https://placehold.co/600x400?text=Multivitamin+200+Count",
+    "description": "Multivitamin 200 Count from our Health & Beauty aisle. Everyday low price."
+  },
+  {
+    "name": "Razor Blades 8 Count",
+    "category": "Health & Beauty",
+    "price": 14.97,
+    "stock": 3,
+    "image": "https://placehold.co/600x400?text=Razor+Blades+8+Count",
+    "description": "Razor Blades 8 Count from our Health & Beauty aisle. Everyday low price."
+  },
+  {
+    "name": "Face Wash 6 oz",
+    "category": "Health & Beauty",
+    "price": 5.98,
+    "stock": 24,
+    "image": "https://placehold.co/600x400?text=Face+Wash+6+oz",
+    "description": "Face Wash 6 oz from our Health & Beauty aisle. Everyday low price."
+  },
+  {
+    "name": "Yoga Mat 6mm",
+    "category": "Sports & Outdoors",
+    "price": 13.88,
+    "stock": 3,
+    "image": "https://placehold.co/600x400?text=Yoga+Mat+6mm",
+    "description": "Yoga Mat 6mm from our Sports & Outdoors aisle. Everyday low price."
+  },
+  {
+    "name": "Adjustable Dumbbell Set",
+    "category": "Sports & Outdoors",
+    "price": 69.0,
+    "stock": 60,
+    "image": "https://placehold.co/600x400?text=Adjustable+Dumbbell+Set",
+    "description": "Adjustable Dumbbell Set from our Sports & Outdoors aisle. Everyday low price."
+  },
+  {
+    "name": "Camping Tent 4 Person",
+    "category": "Sports & Outdoors",
+    "price": 64.0,
+    "stock": 0,
+    "image": "https://placehold.co/600x400?text=Camping+Tent+4+Person",
+    "description": "Camping Tent 4 Person from our Sports & Outdoors aisle. Everyday low price."
+  },
+  {
+    "name": "Basketball Official Size",
+    "category": "Sports & Outdoors",
+    "price": 14.97,
+    "stock": 85,
+    "image": "https://placehold.co/600x400?text=Basketball+Official+Size",
+    "description": "Basketball Official Size from our Sports & Outdoors aisle. Everyday low price."
+  },
+  {
+    "name": "Water Bottle 32 oz",
+    "category": "Sports & Outdoors",
+    "price": 9.48,
+    "stock": 40,
+    "image": "https://placehold.co/600x400?text=Water+Bottle+32+oz",
+    "description": "Water Bottle 32 oz from our Sports & Outdoors aisle. Everyday low price."
+  },
+  {
+    "name": "Fishing Rod Combo",
+    "category": "Sports & Outdoors",
+    "price": 29.97,
+    "stock": 8,
+    "image": "https://placehold.co/600x400?text=Fishing+Rod+Combo",
+    "description": "Fishing Rod Combo from our Sports & Outdoors aisle. Everyday low price."
+  },
+  {
+    "name": "Resistance Bands Set",
+    "category": "Sports & Outdoors",
+    "price": 12.88,
+    "stock": 24,
+    "image": "https://placehold.co/600x400?text=Resistance+Bands+Set",
+    "description": "Resistance Bands Set from our Sports & Outdoors aisle. Everyday low price."
+  },
+  {
+    "name": "Folding Camping Chair",
+    "category": "Sports & Outdoors",
+    "price": 15.97,
+    "stock": 60,
+    "image": "https://placehold.co/600x400?text=Folding+Camping+Chair",
+    "description": "Folding Camping Chair from our Sports & Outdoors aisle. Everyday low price."
+  },
+  {
+    "name": "Dry Dog Food 30 lb",
+    "category": "Pets",
+    "price": 24.98,
+    "stock": 24,
+    "image": "https://placehold.co/600x400?text=Dry+Dog+Food+30+lb",
+    "description": "Dry Dog Food 30 lb from our Pets aisle. Everyday low price."
+  },
+  {
+    "name": "Cat Litter 40 lb",
+    "category": "Pets",
+    "price": 16.97,
+    "stock": 120,
+    "image": "https://placehold.co/600x400?text=Cat+Litter+40+lb",
+    "description": "Cat Litter 40 lb from our Pets aisle. Everyday low price."
+  },
+  {
+    "name": "Dog Chew Toys 4 Pack",
+    "category": "Pets",
+    "price": 9.88,
+    "stock": 85,
+    "image": "https://placehold.co/600x400?text=Dog+Chew+Toys+4+Pack",
+    "description": "Dog Chew Toys 4 Pack from our Pets aisle. Everyday low price."
+  },
+  {
+    "name": "Cat Food Variety 24 Pack",
+    "category": "Pets",
+    "price": 13.48,
+    "stock": 120,
+    "image": "https://placehold.co/600x400?text=Cat+Food+Variety+24+Pack",
+    "description": "Cat Food Variety 24 Pack from our Pets aisle. Everyday low price."
+  },
+  {
+    "name": "Pet Bed Medium",
+    "category": "Pets",
+    "price": 19.97,
+    "stock": 15,
+    "image": "https://placehold.co/600x400?text=Pet+Bed+Medium",
+    "description": "Pet Bed Medium from our Pets aisle. Everyday low price."
+  },
+  {
+    "name": "Motor Oil 5 Quart",
+    "category": "Auto",
+    "price": 23.88,
+    "stock": 40,
+    "image": "https://placehold.co/600x400?text=Motor+Oil+5+Quart",
+    "description": "Motor Oil 5 Quart from our Auto aisle. Everyday low price."
+  },
+  {
+    "name": "Windshield Wiper Blades 2 Pack",
+    "category": "Auto",
+    "price": 16.97,
+    "stock": 15,
+    "image": "https://placehold.co/600x400?text=Windshield+Wiper+Blades+2+Pack",
+    "description": "Windshield Wiper Blades 2 Pack from our Auto aisle. Everyday low price."
+  },
+  {
+    "name": "Car Phone Mount",
+    "category": "Auto",
+    "price": 11.97,
+    "stock": 24,
+    "image": "https://placehold.co/600x400?text=Car+Phone+Mount",
+    "description": "Car Phone Mount from our Auto aisle. Everyday low price."
+  },
+  {
+    "name": "Tire Pressure Gauge",
+    "category": "Auto",
+    "price": 6.88,
+    "stock": 200,
+    "image": "https://placehold.co/600x400?text=Tire+Pressure+Gauge",
+    "description": "Tire Pressure Gauge from our Auto aisle. Everyday low price."
+  },
+  {
+    "name": "Car Wash Soap 64 oz",
+    "category": "Auto",
+    "price": 8.97,
+    "stock": 200,
+    "image": "https://placehold.co/600x400?text=Car+Wash+Soap+64+oz",
+    "description": "Car Wash Soap 64 oz from our Auto aisle. Everyday low price."
+  }
+]
